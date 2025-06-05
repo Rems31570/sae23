@@ -29,7 +29,6 @@ $mesures = $stmt->fetchAll();
                 <a href="gestionnaire.php">Gestion</a>
             <?php endif; ?>
             <a href="consultation.php">Consultation</a>
-            <a href="fairphone.php">Fairphone 3+</a>
             <a href="experience.php">Retours d'expérience</a>
             <a href="php/logout.php">Déconnexion</a>
         </nav>
