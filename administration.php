@@ -27,7 +27,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <nav>
             <a href="dashboard.php">Tableau de bord</a>
             <a href="consultation.php">Consultation</a>
-            <a href="fairphone.php">Fairphone 3+</a>
             <a href="experience.php">Retours</a>
             <a href="php/logout.php">Déconnexion</a>
         </nav>
