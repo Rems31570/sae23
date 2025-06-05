@@ -12,7 +12,6 @@
         <nav>
             <a href="index.html">Connexion</a>
             <a href="consultation.php">Consultation</a>
-            <a href="fairphone.php">Fairphone 3+</a>
         </nav>
     </header>
     <main>
